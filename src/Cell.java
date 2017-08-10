@@ -2,11 +2,6 @@
 import java.awt.Color;
 import javalib.worldimages.*;
 
-//Assignment 9
-//Wong Judy
-//jwmwong
-//Zhang Chi
-//zhangchi
 
 //Represents a single square of the game area
 public class Cell {
